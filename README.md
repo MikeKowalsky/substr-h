@@ -1,8 +1,8 @@
 # substr-h
 
 You can run it locally if you like:
-- grab the link to this repo
-- in the console go to chosen directory
-- git clone [paste repo link]
-- npm i
+- in the console go to the chosen directory
+- git clone https://github.com/MikeKowalsky/substr-h.git
+- enter project's directory: cd substr-h
+- npm install
 - npm run dev
